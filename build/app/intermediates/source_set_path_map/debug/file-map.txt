@@ -1,0 +1,14 @@
+com.example.webapp.blog.example_flutter_webapp_blog.app-jetified-window-1.0.0-beta04-0 /Users/dev.devid/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-webkit-1.7.0-1 /Users/dev.devid/.gradle/caches/transforms-3/26053599e8c0dac0e11dd421905435f3/transformed/webkit-1.7.0/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-jetified-annotation-experimental-1.1.0-2 /Users/dev.devid/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-core-1.6.0-3 /Users/dev.devid/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-jetified-window-java-1.0.0-beta04-4 /Users/dev.devid/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-debug-5 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/android/app/src/debug/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-main-6 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/android/app/src/main/res
+com.example.webapp.blog.example_flutter_webapp_blog.app-pngs-7 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/generated/res/pngs/debug
+com.example.webapp.blog.example_flutter_webapp_blog.app-resValues-8 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/generated/res/resValues/debug
+com.example.webapp.blog.example_flutter_webapp_blog.app-rs-9 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/generated/res/rs/debug
+com.example.webapp.blog.example_flutter_webapp_blog.app-mergeDebugResources-10 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.webapp.blog.example_flutter_webapp_blog.app-mergeDebugResources-11 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.webapp.blog.example_flutter_webapp_blog.app-merged_res-12 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/intermediates/merged_res/debug
+com.example.webapp.blog.example_flutter_webapp_blog.app-packaged_res-13 /Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/webview_flutter_android/intermediates/packaged_res/debug

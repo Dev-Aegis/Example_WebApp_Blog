@@ -1,0 +1,4 @@
+#Sun Sep 22 18:02:26 KST 2024
+base.0=/Users/dev.devid/Desktop/Project/Example_WebApp_Blog/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
